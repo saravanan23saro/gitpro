@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello this is saravanan
 sec line
+=======
+hi i am saro
+hi  line
+>>>>>>> feature2
